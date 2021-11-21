@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NsVEuDVyOJ499JFi2xX0kU/DHNGeYjkTR3HRIEnLZWj6LFKXKVCvPAtm/FKFte/SwJhhkTRH5FH0IkQxtuTC8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\WinFormsApp5\\WinFormsApp5\\WinFormsApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.17\\microsoft.netcore.app.host.win-x86.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
