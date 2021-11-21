@@ -2,7 +2,7 @@
 
 <b>Pong Game, C# ile yapılmış belirli kurallar çerçevesinde ilerleyen bir oyundur.</b>
 
-<img src="PongGamePics/pic1.PNG">
+<img src="PongGamePics/PONG GAME.png">
 
 
 ## Uygulamanın Amacı
